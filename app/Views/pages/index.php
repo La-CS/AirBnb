@@ -1,4 +1,3 @@
-<h1>Homepage</h1>
 <div id="carouselExampleIndicators" class="carousel slide">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -7,13 +6,13 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://placehold.co/600x40" class="d-block w-100" alt="...">
+      <img src="/assets/flat-placeholder.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="https://placehold.co/600x40" class="d-block w-100" alt="...">
+      <img src="/assets/flat-placeholder.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="https://placehold.co/600x40" class="d-block w-100" alt="...">
+      <img src="/assets/flat-placeholder.jpg" class="d-block w-100" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
